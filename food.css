@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+#h2
+{
+    font-family: 'Roboto';       
+    font-style: normal;
+    font-weight: 400;    
+    font-size: 72px;        
+    line-height: 84px;
+}
+footer{
+    background-color :#FFF0DB; 
+    height: auto;
+    width: 100wv;
+    opacity: 0.7;
+}
+#moo{
+    background-color: green;
+}
